@@ -1,0 +1,11 @@
+export(
+       circClass,
+	circFeature,
+       circJuncDE,
+circJuncDEnorep,
+circCLRDE,
+circLinear,
+getAtoI,
+getCLR,
+geneExp
+     )

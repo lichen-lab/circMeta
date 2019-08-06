@@ -1,0 +1,14 @@
+Package: circMeta
+Title: A unified computational framework for genomic feature
+        annotation, differential expression analysis of circular RNAs
+Version: 1.0.2
+Author: Li Chen <li.chen@auburn.edu>
+Maintainer: Li Chen <li.chen@auburn.edu>
+Description: A unified computational framework for genomic feature annotation, differential expression analysis of circular RNAs
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Depends: R (>= 3.3.0), GenomicRanges, Rsamtools, edgeR, DESeq2
+License: GPL
+biocViews: Sequencing, RNASeq, DifferentialExpression
+NeedsCompilation: no
+Packaged: 2019-03-08 07:57:29 UTC; lichen
