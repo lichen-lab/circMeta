@@ -6,7 +6,7 @@ circMeta is a unified computational framework for circRNA analyses. circMeta mai
 circMeta mainly consists of four modules: circClass, circFeature, circJuncDE, circCLRDE.
 
 # Maintainer
-Li Chen <chen61@iu.edu>
+Li Chen <li.chen1@ufl.edu>
 
 
 # Install circMeta
